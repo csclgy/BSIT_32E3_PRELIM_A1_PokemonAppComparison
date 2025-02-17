@@ -1,8 +1,8 @@
 # BSIT_32E3_PRELIM_A1_PokemonAppComparison
 | Francesca A. Lugay | BSIT 32E3
-February 18, 2025
-IT ELECTIVE 3
-PRELIM_A1_PokemonAppComparison
+|February 18, 2025
+|IT ELECTIVE 3
+|PRELIM_A1_PokemonAppComparison
 
 Based on my observation, the css, html and javascript has its own part in completing the pokemon search website.
 
